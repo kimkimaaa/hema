@@ -1,0 +1,90 @@
+{  "fruits":[
+  {
+    "id":1,
+    "name":"香蕉",
+    "price":5,
+    "img":"https://t15.baidu.com/it/u=800928161,2937734668&fm=58&s=98796E86C8F75E969712E6690300205B"
+  },{
+    "id":2,
+    "name":"苹果",
+    "price":4,
+    "img":"https://img1.baidu.com/it/u=2701544038,2872636321&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1684429200&t=483240837a86f7d8ae4fcc7c27b1062a"
+  },{
+    "id":3,
+    "name":"西瓜",
+    "price":6,
+    "img":"https://img2.baidu.com/it/u=2041071118,3656347761&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1684429200&t=0ed2398f3d3db52758be52f3a124a7c1"
+  }
+],
+"tableData":[
+  {
+    "date": "2024-04-26",
+    "name": "张飞",
+    "address": "大连市甘井子区"    
+  },
+  {
+    "date": "2024-04-26",
+    "name": "关羽",
+    "address": "大连市甘井子区"
+  },
+  {
+    "date": "2024-04-26",
+    "name": "刘备",
+    "address": "大连市甘井子区"
+  },
+  {
+    "date": "2024-04-26",
+    "name": "刘备",
+    "address": "大连市甘井子区"
+  }  
+],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },  "users": [
+    {
+      "uname": "chenyingyu",
+      "pwd": "1234",
+      "tel": "124565587686",
+      "address": "高新",
+      "id": 1
+    },
+    {
+      "uname": "cyy",
+      "pwd": "1234",
+      "tel": "124565587686",
+      "address": "甘井子",
+      "id": 2
+    },
+    {
+      "uname": "chenyin",
+      "pwd": "%H!64nui?i=5@&t",
+      "tel": "124231354365",
+      "address": "沙河口",
+      "id": 3
+    }
+  ],
+  "getAllShops":[{"shop_id":18,"shopname":"学姐香肉饭","address":"东软食堂三期","phonenum":"188********","intro":"好吃不贵","pic":"/images/shop/d9753f03c61292dec8316d446c1f302.jpg","comment":null,"level":5},
+  {"shop_id":2,"shopname":"东北一家人","address":"东软食堂三期","phonenum":"12345678902","intro":"相亲相爱的一家人，快来尝尝咱东北菜。","pic":"/images/shop/dongbeicai.jpg","comment":"","level":2},
+  {"shop_id":3,"shopname":"姐妹麻辣汤","address":"东软食堂二期","phonenum":"12345678903","intro":"麻辣烫","pic":"/images/shop/malatang.jpg","comment":null,"level":4},
+  {"shop_id":5,"shopname":"西湖印象","address":"东软食堂二期","phonenum":"12345678905","intro":"杭州口味","pic":"/images/shop/xihuyinxiang.jpg","comment":null,"level":5},
+  {"shop_id":6,"shopname":"丸子铺","address":"东软三期食堂","phonenum":"12345678906","intro":"很好吃的丸子","pic":"/images/shop/wanzipu.jpg","comment":null,"level":4},
+  {"shop_id":13,"shopname":"张记店铺","address":"东软三期","phonenum":"188********","intro":"假的","pic":"/images/shop/kaoyu.jpg","comment":null,"level":5},
+  {"shop_id":19,"shopname":"菜馆","address":"东软三期","phonenum":"1565656556","intro":"欢迎来到菜馆！","pic":"/images/shop/potherbdog.jpg","comment":null,"level":5},
+  {"shop_id":26,"shopname":"泷千家","address":"凯德和平广场","phonenum":"86868866","intro":"泷：水泷泷貌，意指茶水冲入杯中的意象.","pic":"/images/shop/lqj.png","comment":null,"level":3},
+  {"shop_id":27,"shopname":"肯德基","address":"大连东软三期","phonenum":"911111111","intro":"只有魂在的kcf 并没有店在咱东软","pic":"/images/shop/300.jfif","comment":null,"level":3}],
+  "getAllFoods":[{"food_id":1,"foodname":"酸菜鱼","intro":"地道的川菜","pic":"/images/food/scy.jfif","price":23.0,"shop_id":1,"type_id":1,"recommand":1,"typename":null},{"food_id":2,"foodname":"口水鸡","intro":"用健康的鸡肉做成","pic":"/images/food/koushuiji.jfif","price":20.0,"shop_id":1,"type_id":1,"recommand":1,"typename":null},{"food_id":7,"foodname":"麻辣豆腐","intro":"麻辣豆腐","pic":"/images/food/maladoufu.jfif","price":12.0,"shop_id":1,"type_id":0,"recommand":0,"typename":null},{"food_id":12,"foodname":"烤鱼","intro":"两人份，改善生活吧","pic":"/images/food/kaoyu.jfif","price":40.0,"shop_id":1,"type_id":1,"recommand":1,"typename":null}]
+}

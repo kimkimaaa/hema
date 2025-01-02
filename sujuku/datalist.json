@@ -1,0 +1,186 @@
+{
+  "nav": [
+    {
+      "id": 1,
+      "title": "新闻"
+    },
+    {
+      "id": 2,
+      "title": "新闻"
+    },
+    {
+      "id": 3,
+      "title": "新闻"
+    },
+    {
+      "id": 4,
+      "title": "新闻"
+    },
+    {
+      "id": 5,
+      "title": "111"
+    },
+    {
+      "title": "123",
+      "id": 6
+    }
+  ],
+  "switch": [
+    {
+      "id": 1,
+      "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+    },
+    {
+      "id": 2,
+      "src": "https://k.sinaimg.cn/n/sinakd20240329s/294/w627h467/20240329/17b8-23aef14f8e9d077b163c8ea8fb381dfc.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+    },
+    {
+      "id": 3,
+      "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+    }
+  ],
+  "list": {
+    "title": "新闻",
+    "time": "2015-01-01",
+    "user": "xiaoming",
+    "dec": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+    "pic": [
+      {
+        "id": 1,
+        "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+      },
+      {
+        "id": 2,
+        "src": "https://k.sinaimg.cn/n/sinakd20240329s/294/w627h467/20240329/17b8-23aef14f8e9d077b163c8ea8fb381dfc.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+      },
+      {
+        "id": 3,
+        "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+      }
+    ]
+  },
+  "goods": [
+    {
+      "id": 1,
+      "title": "苹果",
+      "price": 23.4,
+      "pic": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width",
+      "dec": "简单描述",
+      "type": "aaa",
+      "sale": {
+        "name1": "双十一",
+        "name2": "618"
+      },
+      "smallPic": [
+        {
+          "id": 1,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 2,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/294/w627h467/20240329/17b8-23aef14f8e9d077b163c8ea8fb381dfc.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 3,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        }
+      ],
+      "top": 10,
+      "rank": 2
+    },
+    {
+      "id": 2,
+      "title": "香蕉",
+      "price": 23.4,
+      "pic": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width",
+      "dec": "简单描述",
+      "type": "aaa",
+      "sale": {
+        "name1": "双十一",
+        "name2": "618"
+      },
+      "smallPic": [
+        {
+          "id": 1,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 2,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/294/w627h467/20240329/17b8-23aef14f8e9d077b163c8ea8fb381dfc.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 3,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        }
+      ],
+      "top": 2,
+      "rank": 4
+    },
+    {
+      "id": 3,
+      "title": "葡萄",
+      "price": 23.4,
+      "pic": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width",
+      "dec": "简单描述",
+      "type": "aaa",
+      "sale": {
+        "name1": "双十一",
+        "name2": "618"
+      },
+      "smallPic": [
+        {
+          "id": 1,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 2,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/294/w627h467/20240329/17b8-23aef14f8e9d077b163c8ea8fb381dfc.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        },
+        {
+          "id": 3,
+          "src": "https://k.sinaimg.cn/n/sinakd20240329s/620/w877h543/20240329/11bd-5d41eff7372db09b641864acbd2f78f2.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        }
+      ],
+      "top": 1,
+      "rank": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "chenyingyu",
+      "password": "12345",
+      "tel": 123456789,
+      "address": "高新"
+    },
+    {
+      "username": "chenyingyu",
+      "password": "%H!64nui?i=5@&t",
+      "tel": "123456789",
+      "age": 11,
+      "id": 2
+    },
+    {
+      "username": "chenyingyu",
+      "password": "%H!64nui?i=5@&t",
+      "tel": "12324",
+      "age": 23,
+      "id": 3
+    },
+    {
+      "username": "chenyingyu",
+      "password": "%H!64nui?i=5@&t",
+      "tel": "12324",
+      "age": 23,
+      "id": 4
+    }
+  ],"getAllshops":[{"shop_id":18,"shopname":"学姐香肉饭","address":"东软食堂三期","phonenum":"188********","intro":"好吃不贵","pic":"/images/shop/d9753f03c61292dec8316d446c1f302.jpg","comment":null,"level":5},
+  {"shop_id":2,"shopname":"东北一家人","address":"东软食堂三期","phonenum":"12345678902","intro":"相亲相爱的一家人，快来尝尝咱东北菜。","pic":"/images/shop/dongbeicai.jpg","comment":"","level":2},
+  {"shop_id":3,"shopname":"姐妹麻辣汤","address":"东软食堂二期","phonenum":"12345678903","intro":"麻辣烫","pic":"/images/shop/malatang.jpg","comment":null,"level":4},
+  {"shop_id":5,"shopname":"西湖印象","address":"东软食堂二期","phonenum":"12345678905","intro":"杭州口味","pic":"/images/shop/xihuyinxiang.jpg","comment":null,"level":5},
+  {"shop_id":6,"shopname":"丸子铺","address":"东软三期食堂","phonenum":"12345678906","intro":"很好吃的丸子","pic":"/images/shop/wanzipu.jpg","comment":null,"level":4},
+  {"shop_id":13,"shopname":"张记店铺","address":"东软三期","phonenum":"188********","intro":"假的","pic":"/images/shop/kaoyu.jpg","comment":null,"level":5},
+  {"shop_id":19,"shopname":"菜馆","address":"东软三期","phonenum":"1565656556","intro":"欢迎来到菜馆！","pic":"/images/shop/potherbdog.jpg","comment":null,"level":5},
+  {"shop_id":26,"shopname":"泷千家","address":"凯德和平广场","phonenum":"86868866","intro":"泷：水泷泷貌，意指茶水冲入杯中的意象.","pic":"/images/shop/lqj.png","comment":null,"level":3},
+  {"shop_id":27,"shopname":"肯德基","address":"大连东软三期","phonenum":"911111111","intro":"只有魂在的kcf 并没有店在咱东软","pic":"/images/shop/300.jfif","comment":null,"level":3}]
+}
